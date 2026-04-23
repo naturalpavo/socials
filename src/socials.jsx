@@ -15,9 +15,9 @@ const DiscordIcon = ({ size = 20, className }) => (
 );
 
 export const socialLinks = [
-  { title: 'YouTube', url: 'https://youtube.com/@naturalpavo', icon: Youtube, color: '#FF0000' },
+  { title: 'YouTube', url: 'https://youtube.com/@merak.esh99', icon: Youtube, color: '#FF0000' },
   { title: 'Instagram', url: 'https://instagram.com/naturalpavo', icon: Instagram, color: '#E1306C' },
-  { title: 'Discord', url: 'https://discord.gg/naturalpavo', icon: DiscordIcon, color: '#5865F2' },
+  { title: 'Discord', url: 'https://discord.gg/H6ZsnfmGFf', icon: DiscordIcon, color: '#5865F2' },
   { title: 'GitHub', url: 'https://github.com/naturalpavo', icon: Github, color: '#FFFFFF' },
   { title: 'Official Website', url: 'https://naturalpavo.au', icon: Bird, color: '#0A9396' },
   { title: 'Business Inquiries', url: 'mailto:business@naturalpavo.au', icon: Mail, color: '#0a6e96' },
